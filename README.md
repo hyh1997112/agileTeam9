@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Agile method Team 9 website
 
 You can use the [editor on GitHub](https://github.com/hyh1997112/agileTeam9/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
