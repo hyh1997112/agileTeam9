@@ -20,7 +20,7 @@
 
 
 
-![Yilin Li](image/3.)
+![Yilin Li](image/3.png)
 
 
 - Name: Yilin Li
