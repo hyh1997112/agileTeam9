@@ -5,9 +5,9 @@ Welcome to our website.
 
 # About Us
 
-[About us website link]()
+[About us website link](https://hyh1997112.github.io/agileTeam9/aboutus)
 
 # About Scrum
 
-[About Scrum website link]()
+[About Scrum website link](https://hyh1997112.github.io/agileTeam9/aboutScrum)
 
