@@ -32,7 +32,7 @@
 
 
 - Name: Yuhan He
-- I am a second year MISM Global student. Currently searching a data analyst job.
+- I am a second year MISM Global student. Currently searching for a data analyst job.
 
 
 
